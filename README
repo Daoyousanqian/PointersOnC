@@ -3,3 +3,10 @@ THIS IS THE EXERCISE FORM THE BOOK OF Pointers on C
 1 be careful when use "scanf" function, all of its scalar arguements must have
 & in front of them, but array arguements do not require an &.
 if it specify array element then an & is required.
+
+/*************/
+
+#define EOF -1 the value of EOF is EOF
+
+/**************/
+
